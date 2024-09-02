@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Flutter technology**
 
-- 📫 How to reach me **princedhameliya.dev@gmail.com**
+- 📫 How to reach me **prinsd.dev@gmail.com**
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 
